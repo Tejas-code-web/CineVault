@@ -41,30 +41,6 @@ CineVault is a responsive movie search web application built using HTML, CSS, an
 - `script.js` - Movie search, API requests, movie details, and Favorites functionality
 - `README.md` - Project documentation
 
-## Screenshots
-
-### Home Page
-
-![CineVault Home Page](home.png)
-
-### Movie Search Results
-
-![Movie Search Results](search.png)
-
-### Movie Details
-
-![Movie Details](details.png)
-
-### Responsive Design
-
-![Responsive Design](responsive1.png)
-
-
-![Responsive Design](responsive2.png)
-
-
-![Responsive Design](responsive3.png)
-
 ## Future Improvements
 
 - Add movie genre-based filtering
